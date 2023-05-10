@@ -21,5 +21,4 @@
 ## Authors info
 Email - ibra39167271@gmail.com
 
-## sketch
-Sketch.jpg
+
